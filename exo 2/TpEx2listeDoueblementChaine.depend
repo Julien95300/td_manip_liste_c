@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1580211844 source:d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\tpex2listedoueblementchaine\evenement.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"date.h"
+
+1580211005 d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\tpex2listedoueblementchaine\evenement.h
+	"date.h"
+
+1580915757 source:d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\tpex2listedoueblementchaine\listedoublementchaine.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"listeDoublementChaine.h"
+	"date.h"
+
+1580915362 d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\tpex2listedoueblementchaine\listedoublementchaine.h
+	"evenement.h"
+
+1580916733 source:d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\tpex2listedoueblementchaine\main.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"listeDoublementChaine.h"
+	"date.h"
+
+1580212067 source:d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\tpex2listedoueblementchaine\date.c
+	<stdio.h>
+	<stdlib.h>
+	"date.h"
+
+1580210920 d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\tpex2listedoueblementchaine\date.h
+
+1580215444 source:c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 2\evenement.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"date.h"
+
+1580214605 c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 2\evenement.h
+	"date.h"
+
+1580214520 c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 2\date.h
+
+1580987351 source:c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 2\date.c
+	<stdio.h>
+	<stdlib.h>
+	"date.h"
+
+1580988160 source:c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 2\listedoublementchaine.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"listeDoublementChaine.h"
+	"date.h"
+
+1619545092 c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 2\listedoublementchaine.h
+	"evenement.h"
+
+1580988326 source:c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"listeDoublementChaine.h"
+	"date.h"
+
+1580987351 source:c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 2\date.c
+	<stdio.h>
+	<stdlib.h>
+	"date.h"
+
+1580214520 c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 2\date.h
+
+1580215444 source:c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 2\evenement.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"date.h"
+
+1580214605 c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 2\evenement.h
+	"date.h"
+
+1580988160 source:c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 2\listedoublementchaine.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"listeDoublementChaine.h"
+	"date.h"
+
+1619545092 c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 2\listedoublementchaine.h
+	"evenement.h"
+
+1580988326 source:c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"listeDoublementChaine.h"
+	"date.h"
+
+1580987351 source:d:\actuel\enseignement indépendant\esiee\programmation c\corrigé td e3frc s2\td pratique - manipulation des listes\exo 2\date.c
+	<stdio.h>
+	<stdlib.h>
+	"date.h"
+
+1580214520 d:\actuel\enseignement indépendant\esiee\programmation c\corrigé td e3frc s2\td pratique - manipulation des listes\exo 2\date.h
+
+1580215444 source:d:\actuel\enseignement indépendant\esiee\programmation c\corrigé td e3frc s2\td pratique - manipulation des listes\exo 2\evenement.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"date.h"
+
+1580214605 d:\actuel\enseignement indépendant\esiee\programmation c\corrigé td e3frc s2\td pratique - manipulation des listes\exo 2\evenement.h
+	"date.h"
+
+1580988160 source:d:\actuel\enseignement indépendant\esiee\programmation c\corrigé td e3frc s2\td pratique - manipulation des listes\exo 2\listedoublementchaine.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"listeDoublementChaine.h"
+	"date.h"
+
+1619545092 d:\actuel\enseignement indépendant\esiee\programmation c\corrigé td e3frc s2\td pratique - manipulation des listes\exo 2\listedoublementchaine.h
+	"evenement.h"
+
+1580988326 source:d:\actuel\enseignement indépendant\esiee\programmation c\corrigé td e3frc s2\td pratique - manipulation des listes\exo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"evenement.h"
+	"listeDoublementChaine.h"
+	"date.h"
+

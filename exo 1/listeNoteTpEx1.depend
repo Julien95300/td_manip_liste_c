@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1580914972 source:d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\listenotetpex1\note.c
+	<stdio.h>
+	<stdlib.h>
+	"note.h"
+
+1580914984 d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\listenotetpex1\note.h
+
+1580914773 source:d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\listenotetpex1\liste.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"note.h"
+
+1580913663 d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\listenotetpex1\liste.h
+	"note.h"
+
+1580915028 source:d:\actuel\enseignement indépendant\esiee\initiation cours c s1\code et projets\listenotetpex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"note.h"
+
+1604344700 source:c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 1\liste.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"note.h"
+
+1604342168 c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 1\liste.h
+	"note.h"
+	"element.h"
+
+1602499008 c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 1\note.h
+
+1604342935 source:c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"note.h"
+
+1602499000 source:c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 1\note.c
+	<stdio.h>
+	<stdlib.h>
+	"note.h"
+
+1604336802 c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 1\element.h
+	"note.h"
+
+1604344469 source:c:\users\kenza\desktop\e4frc s1\tp4 manipulation des listes\tp4 exo 1\element.c
+	<stdio.h>
+	<stdlib.h>
+	"element.h"
+	"note.h"
+
+1619545535 source:c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 1\element.c
+	<stdio.h>
+	<stdlib.h>
+	"element.h"
+	"note.h"
+
+1653990900 c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 1\element.h
+	"note.h"
+
+1619545405 c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 1\note.h
+
+1604348300 source:c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 1\liste.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"note.h"
+
+1604345768 c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 1\liste.h
+	"note.h"
+	"element.h"
+
+1604346535 source:c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"note.h"
+
+1602502600 source:c:\users\kenza\desktop\e3frc s2\tp4 listes\tp4 exo 1\note.c
+	<stdio.h>
+	<stdlib.h>
+	"note.h"
+
+1619545535 source:c:\users\kenza\desktop\e3frc s2\td pratique - manipulation des listes\exo 1\element.c
+	<stdio.h>
+	<stdlib.h>
+	"element.h"
+	"note.h"
+
+1653990900 c:\users\kenza\desktop\e3frc s2\td pratique - manipulation des listes\exo 1\element.h
+	"note.h"
+
+1619545405 c:\users\kenza\desktop\e3frc s2\td pratique - manipulation des listes\exo 1\note.h
+
+1604348300 source:c:\users\kenza\desktop\e3frc s2\td pratique - manipulation des listes\exo 1\liste.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"note.h"
+
+1604345768 c:\users\kenza\desktop\e3frc s2\td pratique - manipulation des listes\exo 1\liste.h
+	"note.h"
+	"element.h"
+
+1604346535 source:c:\users\kenza\desktop\e3frc s2\td pratique - manipulation des listes\exo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"note.h"
+
+1602502600 source:c:\users\kenza\desktop\e3frc s2\td pratique - manipulation des listes\exo 1\note.c
+	<stdio.h>
+	<stdlib.h>
+	"note.h"
+
